@@ -1,0 +1,14 @@
+{
+  "name": "alfred-bot",
+  "version": "1.0.0",
+  "description": "whatsapp chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lucas Assis",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.1.3"
+  }
+}
